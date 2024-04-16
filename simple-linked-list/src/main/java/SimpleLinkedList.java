@@ -16,6 +16,7 @@ class SimpleLinkedList<T> {
 
     void push(T value) {
         linkedList.add(value);
+
     }
 
     T pop() {
